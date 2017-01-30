@@ -1,0 +1,10 @@
+[
+  {
+    "user_id":1,
+    "user_firstname":"Vika",
+    "user_lastname":"Bondar",
+    "start_time":"2016-06-21T18:56:48Z",
+    "end_time":"2016-06-21T20:33:10Z",
+    "task_title": "Initial project setup"
+  }
+]

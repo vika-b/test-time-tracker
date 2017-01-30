@@ -1,0 +1,16 @@
+.time-picker {
+    display: inline-block;
+    margin-right: 20px;
+}
+.form-layout {
+    margin-bottom: 20px;
+}
+.user-name {
+    color: #337ab7;
+}
+.navbar-nav > li > a.logout {
+    line-height: 26px;
+}
+.bg-info {
+    margin-bottom: 20px;
+}
